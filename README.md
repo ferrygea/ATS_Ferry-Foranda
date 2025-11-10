@@ -1,4 +1,4 @@
-# 4212311013_Ferry-Foranda-Gea_MidternAssignment
+# 4212311013_Ferry-Foranda-Gea_MidtermAssignment
 
 ## Informasi Mata Kuliah
 
