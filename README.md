@@ -1,4 +1,4 @@
-# Klasifikasi Karakter Tulisan Tangan EMNIST dengan HOG Feature Extraction dan SVM
+# 4212311013_Ferry-Foranda-Gea_MidternAssignment
 
 ## Informasi Mata Kuliah
 
